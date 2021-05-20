@@ -19,7 +19,7 @@ Desenvolva um jogo com comando de voz utilizando a API nativa Speech Recognition
 # Testes executados (utilizando IDE Visual Studio Code)
 
 ## Tela inicial
-<img src="????" />
+<img src="https://github.com/rdeconti/Projeto-DIO-JavaScript-Reconhecimento-Voz/blob/main/screensTest/tela-inicial.jpg" />
 
 
 
