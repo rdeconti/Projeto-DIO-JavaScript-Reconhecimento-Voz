@@ -12,7 +12,8 @@
 Desenvolva um jogo com comando de voz utilizando a API nativa Speech Recognition e aprenda como estruturar um projeto de forma profissional.
 
 # Detalhes da aula
-- 
+- Possibilidade de responder em aúdio para se comunicar com o Browser
+- Layout construído com Flexbox
 
 -----------------------------------------------------------------------------------------------------------------
 # Testes executados (utilizando IDE Visual Studio Code)
